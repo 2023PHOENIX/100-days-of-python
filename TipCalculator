@@ -1,0 +1,15 @@
+print("Welcome Tip Calculator")
+
+Bill = float(input("What is your Total Bill.?"))
+
+Tip = int(input("Enter how much tip would you give.?"))
+
+Splitter = int(input("How many people Splitting the bill"))
+
+
+TotalBill =  Bill + (Bill*Tip)/100
+
+print(round(TotalBill/Splitter))
+print(TotalBill//Splitter)
+
+print(round(TotalBill/Splitter,2))

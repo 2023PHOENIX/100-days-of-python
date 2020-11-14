@@ -1,0 +1,12 @@
+Height = int(input())
+Age = int(input())
+if Height>120:
+    if Age >= 18:
+        print("you are given with $12 fine")
+    elif 12< Age < 18:
+        print("your fine is $7.")
+    else:
+        print("You have been fined with $5.")
+
+else:
+    print("You Are Not Eligible for riding.")
