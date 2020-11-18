@@ -5,3 +5,4 @@ def funct():
     print("Bye")
 
 funct()
+# calling the function with name
