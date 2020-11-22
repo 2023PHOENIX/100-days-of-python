@@ -63,3 +63,4 @@ while True:
     else:
         print(f"sorry,that's wrong. Final Score {score}.\n\n")
         break
+    clear()

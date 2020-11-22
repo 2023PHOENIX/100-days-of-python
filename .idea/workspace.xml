@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="Project Files" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="dc1dc9ec-201e-46af-9e93-ae0bafd7d494" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,17 +22,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Hackerrank-Python" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\asus\Documents\GitHub\100-days-of-python\Day 16" />
       <recent name="C:\Users\asus\Documents\GitHub\100-days-of-python\Day 14" />
       <recent name="C:\Users\asus\Documents\GitHub\100-days-of-python\DAY 12" />
       <recent name="C:\Users\asus\Documents\GitHub\100-days-of-python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Higher&amp;Lower">
-    <configuration name="CoffeeMachine" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="Oops (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100-days-of-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -36,32 +41,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DAY 15" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 17" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DAY 15/CoffeeMachine.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Debugging" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100-days-of-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DAY 13" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DAY 13/Debugging.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 17/Oops.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -70,7 +54,61 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Higher&amp;Lower (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Oops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100-days-of-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 17" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 17/Oops.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100-days-of-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 17" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 17/data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100-days-of-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 17" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 17/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="quiz_brain" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100-days-of-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,52 +116,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 14" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 17" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 14/Higher&amp;Lower.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 17/quiz_brain.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Higher&amp;Lower" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100-days-of-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 14" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 14/Higher&amp;Lower.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="NumberGuess" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100-days-of-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DAY 12" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DAY 12/NumberGuess.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -132,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Higher&amp;Lower" />
-        <item itemvalue="Python.Higher&amp;Lower" />
-        <item itemvalue="Python.Higher&amp;Lower" />
-        <item itemvalue="Python.Higher&amp;Lower" />
-        <item itemvalue="Python.Higher&amp;Lower" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.quiz_brain" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.data" />
       </list>
     </recent_temporary>
   </component>
@@ -152,30 +151,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="218" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605980946301">
+    <state x="414" y="218" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606018543047">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="414" y="218" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1605980946301" />
+    <state x="414" y="218" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1606018543047" />
     <state x="496" y="130" key="FileChooserDialogImpl" timestamp="1605945004045">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="496" y="130" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1605945004045" />
-    <state width="1511" height="671" key="GridCell.Tab.0.bottom" timestamp="1605982951282">
+    <state width="1511" height="670" key="GridCell.Tab.0.bottom" timestamp="1606063634857">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1511" height="671" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1605982951282" />
-    <state width="1511" height="671" key="GridCell.Tab.0.center" timestamp="1605982951282">
+    <state width="1511" height="670" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1606063634857" />
+    <state width="1511" height="670" key="GridCell.Tab.0.center" timestamp="1606063634857">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1511" height="671" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1605982951282" />
-    <state width="1511" height="671" key="GridCell.Tab.0.left" timestamp="1605982951282">
+    <state width="1511" height="670" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1606063634857" />
+    <state width="1511" height="670" key="GridCell.Tab.0.left" timestamp="1606063634857">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1511" height="671" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1605982951282" />
-    <state width="1511" height="671" key="GridCell.Tab.0.right" timestamp="1605982951282">
+    <state width="1511" height="670" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1606063634857" />
+    <state width="1511" height="670" key="GridCell.Tab.0.right" timestamp="1606063634857">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1511" height="671" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1605982951282" />
+    <state width="1511" height="670" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1606063634857" />
     <state width="1511" height="262" key="GridCell.Tab.1.bottom" timestamp="1605962030784">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -192,10 +191,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1511" height="262" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1605962030784" />
-    <state x="240" y="0" key="SettingsEditor" timestamp="1605804496460">
+    <state x="240" y="0" key="SettingsEditor" timestamp="1606018013582">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="240" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1605804496460" />
+    <state x="240" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1606018013582" />
     <state x="211" y="98" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1605958322025">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
